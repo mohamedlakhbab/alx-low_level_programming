@@ -1,4 +1,4 @@
-#include <stdio.h>
 
-#define SIZE 2024
+#include <stdio.h>
+#define SIZE 1024
 
